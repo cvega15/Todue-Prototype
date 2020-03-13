@@ -1,0 +1,8 @@
+Fri Mar 13 16:31:29 2020 >>> Start
+Fri Mar 13 16:31:29 2020 >>> User_Tasks Created
+Fri Mar 13 16:31:30 2020 >>> Drawing GUI
+Fri Mar 13 16:31:31 2020 >>> Sorted Alphabetically
+Fri Mar 13 16:31:36 2020 >>> Adding Task
+Fri Mar 13 16:31:36 2020 >>> Sorted Alphabetically
+Fri Mar 13 16:31:38 2020 >>> Deleted Task
+Fri Mar 13 16:31:38 2020 >>> Sorted Alphabetically
